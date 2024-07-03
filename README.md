@@ -4,10 +4,8 @@
 </h1>
 <hr>
 <br>
-
+<h2 align="center">I like learning about Web Development and UI/UX</h2>
 <hr>
-
-<h3 align="center">I like learning about Web Development and UI/UX</h3>
 
 <br/>
 
