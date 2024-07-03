@@ -8,7 +8,7 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
  
  🏫 I am currently studying at Bina Sarana Informatika University majoring in Information Systems. | 2021 - Now
  
@@ -16,7 +16,7 @@
 
 💬 Ask me about anything 
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ **I enjoy learning new things 😁**
 
  </div>
  
