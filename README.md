@@ -37,17 +37,3 @@
     <img src="https://skillicons.dev/icons?i=html,css,javascript,php,express,python,nodejs,tailwind,bootstrap,firebase,gcp,mysql" />
     <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,ai,ps,notion,postman"/><br>
 </div>
-
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/arjunnourmansyah27/arjunnourmansyah27/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
