@@ -6,7 +6,7 @@
 <h2 align="center">I like learning about Web Development and UI/UX</h2>
 <hr>
 <br/>
-<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<!-- <img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/> -->
 <br>
 <div align="left">
  
