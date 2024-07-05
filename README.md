@@ -4,10 +4,11 @@
 </h1>
 <hr>
 <h2 align="center">I like learning about Web Development and UI/UX</h2>
-<hr>
 
 <br/>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<br>
+<hr>
 <div align="left">
  
  🏫 I am currently studying at Bina Sarana Informatika University majoring in Information Systems. | 2021 - Now
