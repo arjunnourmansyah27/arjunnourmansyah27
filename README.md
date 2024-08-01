@@ -12,7 +12,7 @@
  
  🏫 I am currently studying at Bina Sarana Informatika University majoring in Information Systems. | 2021 - Now
  
- 🌱 I’m currently learning **Python, Express, Google Cloud Platform**
+ 🌱 I’m currently learning **React.js, Express, Google Cloud Platform**
 
 💬 Ask me about anything 
 
